@@ -32,9 +32,9 @@ This project is a mini food order application built with React using the useCont
 
 ### Screenshot
 
-![Main Page](/src/assets/mainPage.png)
-![Basket](/src/assets/basket.jpg)
-![Basket Order](/src/assets/basketOrder.jpg)
+![Main Page](/src/assests/mainPage.png)
+![Basket](/src/assests/basket.jpg)
+![Basket Order](/src/assests/basketOrder.jpg)
 
 
 ### Links
